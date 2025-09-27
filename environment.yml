@@ -1,0 +1,12 @@
+name: invert-forcing
+channels:
+  - conda-forge
+  - nodefaults
+dependencies:
+  - jupyter
+  - jupytext
+  - fair==2.2.2
+  - matplotlib
+  - numpy
+  - pandas
+  - scipy
